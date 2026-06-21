@@ -19,6 +19,7 @@ https://afdian.com/a/manong
   `KEY_ALIAS`:  Key alais of your key store file.
   
   `KEY_PASSWORD`: key password of your key store file.
+  
   `STORE_FILE`: Path of your key store file in your repository.
   
   `STORE_PASSWORD`: Store password of your key store file.
