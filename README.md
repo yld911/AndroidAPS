@@ -20,6 +20,7 @@ https://afdian.com/a/manong
   
   `KEY_PASSWORD`: key password of your key store file.
   `STORE_FILE`: Path of your key store file in your repository.
+  
   `STORE_PASSWORD`: Store password of your key store file.
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
